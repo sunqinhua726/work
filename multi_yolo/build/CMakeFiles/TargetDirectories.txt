@@ -1,0 +1,3 @@
+/home/qinhua/work/multi_yolo/build/CMakeFiles/edit_cache.dir
+/home/qinhua/work/multi_yolo/build/CMakeFiles/rebuild_cache.dir
+/home/qinhua/work/multi_yolo/build/CMakeFiles/test_yolo5.dir
